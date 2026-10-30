@@ -4,7 +4,7 @@ import AsciiMonogram from './AsciiMonogram'
 type Platform = 'github' | 'linkedin' | 'email'
 
 const links: { platform: Platform; name: string; label: string; href: string }[] = [
-  { platform: 'github', name: 'GitHub', label: 'github.com/NatanSlvdr', href: 'https://github.com/NatanSlvdr' },
+  { platform: 'github', name: 'GitHub', label: 'github.com/nslvdr', href: 'https://github.com/nslvdr' },
   { platform: 'linkedin', name: 'LinkedIn', label: 'linkedin.com/in/natan-salvador', href: 'https://www.linkedin.com/in/natan-salvador' },
   { platform: 'email', name: 'Email', label: 'pro.natansalvador@gmail.com', href: 'mailto:pro.natansalvador@gmail.com' },
 ]
